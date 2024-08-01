@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notification kotlin</string>
+    <string name="channel_name">Kênh thông báo chính thức </string>
+    <string name="channel_description">Kênh thông báo mặc định của ứng dụng </string>
+    <string name="text_create_notification"> Create notification</string>
+    <string name="title_notification">Thong bao cua toi</string>
+    <string name="content_notification">noi dung thong bao được tạo vào lúc này</string>
+    <string name="txt_permission_deny">Quyền gửi thông báo bị từ chối </string>
+    <string name="txt_permission_granted">Quyền gưửi thông báo đã được cấp </string>
+    <string name="ok">OK</string>
+    <string name="notify_permission_require">Quyen gui thong bao can duoc cap thi ung dung moi gui cho ban cac thong bao quan trong</string>
+    <string name="send_notification">Bấm để gửi thông báo</string>
+</resources>
